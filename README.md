@@ -15,8 +15,6 @@ This project explains [pandas](https://anaconda.org/anaconda/pandas) apis for Da
 [Video Tutorial](https://www.youtube.com/watch?v=ikOEn8jY2Is)
 
 
-[![Watch the Video Tutorial](http://adilmoujahid.com/images/data-viz-talkingdata.gif)](https://www.youtube.com/watch?v=ikOEn8jY2Is)
+[![Watch the Video Tutorial] <img src = "git_image/pandas.gif" width="800" height="300" >](https://www.youtube.com/watch?v=ikOEn8jY2Is)
 
 
-# Suggestes Video for reference
-<img src = "git_image/pandas.gif" width="800" height="300" >
