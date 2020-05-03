@@ -6,9 +6,9 @@ This project explains [pandas](https://anaconda.org/anaconda/pandas) apis for Da
 
 ## libararies
 
-| Library items      | description    |
-|------------|-------------|
-| image 1 | image 2 |
+| Library items      | description    | Library link   |
+|------------|-------------|-------------|
+| Pandas | Python Data Analysis Library for Descrptive analytics & EDA | https://anaconda.org/anaconda/pandas | 
 
 
 ## Reference Tutorials
