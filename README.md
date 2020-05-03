@@ -19,4 +19,4 @@ This project explains [pandas](https://anaconda.org/anaconda/pandas) apis for Da
 
 
 # Suggestes Video for reference
-<img src = "git_image/pandas.gif" width="500" height="500" >
+<img src = "git_image/pandas.gif" width="800" height="300" >
